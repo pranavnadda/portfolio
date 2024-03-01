@@ -13,7 +13,7 @@
     --bg-color: rgb(19, 16, 16);
     --second-bg-color: #292929;
     --text-color: white;
-    --main-color: rgb(89, 227, 51);
+    --main-color: rgb(23, 174, 212);
 }
 
 html {
@@ -736,4 +736,6 @@ display: inline-flex;
         height: 50vw;
 
     }
+        .text-animation {
+            font-size: 14px;
 }
